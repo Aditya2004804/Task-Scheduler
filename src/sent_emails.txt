@@ -1,0 +1,12 @@
+To: officialaditya9997@gmail.com
+Subject: Verify subscription to Task Planner
+<p>Click the link below to verify your subscription to Task Planner:</p><p><a id='verification-link' href='http://localhost/verify.php?email=officialaditya9997%40gmail.com&code=127057'>Verify Subscription</a></p>
+----------------------
+To: officialaditya9997@gmail.com
+Subject: Task Planner - Pending Tasks Reminder
+<h2>Pending Tasks Reminder</h2><p>Here are the current pending tasks:</p><ul><li>Complete RTLearn Assignment</li></ul><p><a id='unsubscribe-link' href='http://localhost/unsubscribe.php?email=officialaditya9997%40gmail.com'>Unsubscribe from notifications</a></p>
+----------------------
+To: officialaditya9997@gmail.com
+Subject: Task Planner - Pending Tasks Reminder
+<h2>Pending Tasks Reminder</h2><p>Here are the current pending tasks:</p><ul><li>Complete RTLearn Assignment</li></ul><p><a id='unsubscribe-link' href='http://localhost/unsubscribe.php?email=officialaditya9997%40gmail.com'>Unsubscribe from notifications</a></p>
+----------------------
